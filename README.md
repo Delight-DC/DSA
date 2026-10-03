@@ -11,7 +11,7 @@
 | ... | ... | Supplier Management |
 | Max K Gebhard | 226085783 | Asset Management |
 | ... | ... | Reports |
-| ... | ... | Functions & Integration |
+|Kambinda Posani|226080749| Functions & Integration |
 |Ndasilwohenda N Nandiinotya | 224080881 | Input Validation & Documentation |
 
 ## Project Description
