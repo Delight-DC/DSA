@@ -59,6 +59,6 @@ Type the number of a menu option and press **Enter**. Entering text, a number ou
 | 4 | Asset Management | `assets.c`, `assets.h` |
 | 5 | Reports | `reports.c`, `reports.h` |
 | 6 | Functions & integration | `main.c` |
-| 7 | Input validation (salary, budget, menu), error handling, README, technical report, GitHub repository management | `validation.c`, `validation.h`, `test_validation.c`, `README.md`, `GIT_WORKFLOW.md`, `.gitignore` |
+| 7 | Input validation (salary, budget, menu), error handling, README, technical report, GitHub repository management | `validation.c`, `validation.h`,  `README.md`, `GIT_WORKFLOW.md`,  |
 
 
