@@ -12,7 +12,7 @@
 | ... | ... | Asset Management |
 | ... | ... | Reports |
 | ... | ... | Functions & Integration |
-| [Your Name] | [Your Number] | Input Validation & Documentation |
+|Ndasilwohenda Nandiinotya | 224080881 | Input Validation & Documentation |
 
 ## Project Description
 A menu-driven C application that manages municipal employees, budgets, suppliers, and assets, with reporting and input validation.
