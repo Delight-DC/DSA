@@ -1,4 +1,4 @@
-# Municipal Financial Management System (MFMS) — Project A
+# Municipal Financial Management System (MFMS) 
 
 ## Group Number
 12
