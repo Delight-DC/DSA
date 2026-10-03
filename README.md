@@ -7,12 +7,12 @@
 | Name | Student Number | Responsibility |
 |------|---------------|----------------|
 | ... | ... | Employee Management |
-| ... | ... | Budget Management |
+|Tweufiilwa J Vataleni     | 226157121 | Budget Management |
 | ... | ... | Supplier Management |
-| ... | ... | Asset Management |
+| Max K Gebhard | 226085783 | Asset Management |
 | ... | ... | Reports |
 | ... | ... | Functions & Integration |
-|Ndasilwohenda Nandiinotya | 224080881 | Input Validation & Documentation |
+|Ndasilwohenda N Nandiinotya | 224080881 | Input Validation & Documentation |
 
 ## Project Description
 A menu-driven C application that manages municipal employees, budgets, suppliers, and assets, with reporting and input validation.
