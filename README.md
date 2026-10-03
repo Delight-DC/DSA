@@ -1,7 +1,7 @@
 # Municipal Financial Management System (MFMS) — Project A
 
 ## Group Number
-Group X
+12
 
 ## Group Members
 | Name | Student Number | Responsibility |
@@ -26,5 +26,39 @@ A menu-driven C application that manages municipal employees, budgets, suppliers
 - Input Validation (salary, budget, menu, general)
 
 ## Compilation Instructions
+
+Requires **GCC** (MinGW-w64 on Windows, `gcc` on Linux/macOS).
+
 ```bash
-gcc main.c employees.c budget.c suppliers.c assets.c reports.c validation.c -o mfms
+gcc -std=c99 -Wall -Wextra -pedantic -o mfms main.c employees.c budget.c suppliers.c assets.c reports.c validation.c -lm
+```
+
+To build and run the validation tests:
+
+```bash
+gcc -std=c99 -Wall -Wextra -pedantic -o test_validation test_validation.c validation.c -lm
+./test_validation
+```
+
+## How to Run
+
+```bash
+./mfms          # Linux / macOS
+mfms.exe        # Windows
+```
+
+Type the number of a menu option and press **Enter**. Entering text, a number out of range, or an empty value shows an `[ERROR]` message and asks again.
+
+## Individual Responsibilities
+
+| Member | Responsibility | Files |
+|--------|----------------|-------|
+| 1 | Employee Management | `employees.c`, `employees.h` |
+| 2 | Budget Management | `budget.c`, `budget.h` |
+| 3 | Supplier Management | `suppliers.c`, `suppliers.h` |
+| 4 | Asset Management | `assets.c`, `assets.h` |
+| 5 | Reports | `reports.c`, `reports.h` |
+| 6 | Functions & integration | `main.c` |
+| 7 | Input validation (salary, budget, menu), error handling, README, technical report, GitHub repository management | `validation.c`, `validation.h`, `test_validation.c`, `README.md`, `GIT_WORKFLOW.md`, `.gitignore` |
+
+
